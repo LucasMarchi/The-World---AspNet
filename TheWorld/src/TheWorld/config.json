@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "shawn@wildermuth.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "8OAA4F7LwuwjbWUVvnaI~RQulWxPMHVGA3cFzyxfzfA~Aq12wtm73cnuZzqxVhUKBQLsv1TdiwV0ugJ4RSk1CUHtENoBbKrqMJcptcKb5nYZ"
+  }
+}
